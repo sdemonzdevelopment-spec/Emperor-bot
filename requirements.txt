@@ -1,0 +1,5 @@
+instagrapi==1.19.0
+pillow==10.1.0
+google-generativeai==0.3.2
+python-dotenv==1.0.0
+requests==2.31.0
